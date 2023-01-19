@@ -3,3 +3,12 @@
 body {
 	font-family: Arial;
 }
+
+
+.centered {
+	text-align: center;
+}
+
+.blue {
+	background-color: lightblue;
+}
