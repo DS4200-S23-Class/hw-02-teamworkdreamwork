@@ -12,3 +12,12 @@ body {
 .blue {
 	background-color: lightblue;
 }
+
+.subbullet { 
+	margin-left: 2em;
+	padding-bottom: 0;
+}
+
+table, th, td {
+	border: 1px solid;
+}
