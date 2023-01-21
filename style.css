@@ -22,6 +22,10 @@ table, th, td {
 	border: 1px solid;
 }
 
+table th {
+	fill: lightblue;
+}
+
 #decoration {
 }
 
