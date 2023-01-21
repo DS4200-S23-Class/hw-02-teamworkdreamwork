@@ -21,3 +21,39 @@ body {
 table, th, td {
 	border: 1px solid;
 }
+
+#decoration {
+}
+
+.circle {
+	fill-opacity: 50%;
+	fill: skyblue;
+	margin: 20%;
+}
+
+.circle:hover {
+	border-color: hotpink;
+	border: solid;
+	border-width: medium;
+	stroke: hotpink;
+	position: relative;
+}
+
+.rect {
+	stroke: black;
+	fill: green;
+	position: relative;
+
+}
+
+.rect:hover{
+	fill: purple;
+}
+
+svg {
+	top: 110%;
+	bottom: 0;
+	left: 5%;
+	right: 0;
+	width: auto;
+}
