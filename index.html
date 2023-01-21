@@ -5,8 +5,29 @@
     <meta charset=utf-8/>
     <link rel="stylesheet" href="style.css">
     <title>hw-02</title>
-</head>
 
+    <style>
+        .body {
+            padding: 0;
+            margin: 0;
+        }
+
+        .Parent {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .child1 {
+            width: 50%;
+            height: 100vh;
+        }
+
+        .child2 {
+            width: 50%;
+            height: 100vh;
+        }
+    </style>
+</head>
 
 <body>
     <div id="data-abstraction">
@@ -68,8 +89,16 @@
                     <li>FromNodeID: Item</li>
                     <li>ToNodeID: Item</li>
                 </ul>
-
-
+    <div id="task-abstraction">
+        <h1 class="centered">Task Abstraction</h1>
+        <div class="Parent">
+            <div class="child1">
+                <img src="img/vis1.png" alt="Vancouver temperatures" width="675px" height="525px" class="centered">
+            </div>
+            <div class="child2">
+                <img src="img/vis2.png" alt="Seattle and Portland temperatures" width="700px" height="450px" class="centered">
+            </div>
+        </div>
 </body>
 
 </html>
