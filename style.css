@@ -22,8 +22,52 @@ table, th, td {
 	border: 1px solid;
 }
 
-table th {
-	fill: lightblue;
+#HLT-Vis1 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#MLT-Vis1 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#LLT-Vis1 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#Target-Vis1 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#HLT-Vis2 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#MLT-Vis2 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#LLT-Vis2 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
+}
+
+#Target-Vis2 {
+	text-align: left;
+	color: darkblue;
+	font-size: 15px;
 }
 
 #decoration {
